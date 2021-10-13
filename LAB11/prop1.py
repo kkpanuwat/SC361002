@@ -7,3 +7,6 @@ def reverse_str(sentence):
 
 sentence = "Structured Programming for Information Technology"
 print("Reverse string:", reverse_str(sentence))
+
+x= "Panuwat"
+print(list(x))
